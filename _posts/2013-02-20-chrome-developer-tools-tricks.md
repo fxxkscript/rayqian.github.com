@@ -1,6 +1,7 @@
+---
+layout: post
 title: Chrome Developer Tools Tricks
 date: 2013-02-20 17:09:53
-tags: [chrome, console]
 categories: tech
 ---
 

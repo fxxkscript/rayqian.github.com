@@ -1,6 +1,7 @@
+---
+layout: post
 title: CSS清除浮动
 date: 2013-02-20 17:14:27
-tags: css
 categories: tech
 ---
 
